@@ -21,5 +21,4 @@ We are requesting a builder grant in the range of $50,000–$100,000 (depending 
 
 Thank you for considering Payrium. I’m happy to provide any additional technical materials or onboarding documentation you’d like to review.
 
-Best regards,
-Petro Smahliuk
+
